@@ -1,0 +1,111 @@
+
+body{
+	color:#40514E;
+	margin:0;
+	text-align:center;
+
+	font-family: 'Merriweather Sans', sans-serif;
+	
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5em;
+	font-weight: normal;
+	padding-bottom:10px; 
+	color: #21E6C1;
+
+}
+h3{
+		font-family: 'Montserrat', sans-serif;
+	   color:#EDEDED;
+}
+h4,h5{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2rem;
+	color: #fff;
+}
+
+p{
+		line-height: 2;
+		
+}
+a{
+		color: #11999E;
+		font-family: 'Montserrat', sans-serif;
+		margin:10px 20px;
+		text-decoration: none;
+        
+	}
+a:hover{
+		color: #EAF6F6;
+	}
+.top{
+	background-color: black;
+	border:10px;
+	padding-top: 100px;
+	position: relative;
+}
+
+
+
+hr{
+	
+	border: dotted  #C4B6B6 6px;
+    width:20%;
+	border-bottom: none;
+	margin: 100px auto;
+
+}
+.bottom{
+	background-color: #66BFBF;;
+	padding: 50px 0 20px;
+
+}
+.tribute-details{
+	width:50%;
+	margin:100px auto 100px auto;
+	text-align: center;
+	
+
+}
+.img-giphy{
+	float: left;
+	width: 50%;
+	margin-right: 30px;
+}
+
+.about-desc{
+	clear: right;
+	text-align: left;
+}
+.music{
+	width:20%;
+
+}
+
+.btn {
+  background: #0e0e0f;
+  background-image: -webkit-linear-gradient(top, #0e0e0f, #626669);
+  background-image: -moz-linear-gradient(top, #0e0e0f, #626669);
+  background-image: -ms-linear-gradient(top, #0e0e0f, #626669);
+  background-image: -o-linear-gradient(top, #0e0e0f, #626669);
+  background-image: linear-gradient(to bottom, #0e0e0f, #626669);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffff;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1c2429;
+  background-image: -webkit-linear-gradient(top, #1c2429, #e4ebf0);
+  background-image: -moz-linear-gradient(top, #1c2429, #e4ebf0);
+  background-image: -ms-linear-gradient(top, #1c2429, #e4ebf0);
+  background-image: -o-linear-gradient(top, #1c2429, #e4ebf0);
+  background-image: linear-gradient(to bottom, #1c2429, #e4ebf0);
+  text-decoration: none;
+}
